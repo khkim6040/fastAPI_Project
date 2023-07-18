@@ -18,7 +18,7 @@
 			href="/"
 			on:click={() => {
 				($keyword = ""), ($page = 0);
-			}}>Pybo</a
+			}}>ho0ou</a
 		>
 		<button
 			class="navbar-toggler"
